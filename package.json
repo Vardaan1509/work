@@ -1,0 +1,21 @@
+{
+  "name": "good",
+  "version": "1.0.0",
+  "description": "Backend",
+  "keywords": [
+    "backend",
+    "good",
+    "vardaan"
+  ],
+  "license": "ISC",
+  "author": "Vardaan Mehandiratta",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
